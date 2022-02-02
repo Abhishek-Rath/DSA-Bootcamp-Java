@@ -1,6 +1,6 @@
 # Videos:
-- [Linear Search](https://youtu.be/_HRA37X8N_Q)
-- [Binary Search](https://youtu.be/f6UU7V3szVw)
+- [x] [Linear Search](https://youtu.be/_HRA37X8N_Q)
+- [x] [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
 - [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo)
 
@@ -23,7 +23,7 @@
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
