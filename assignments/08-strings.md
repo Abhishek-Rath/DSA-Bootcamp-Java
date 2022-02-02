@@ -4,8 +4,8 @@
 
 ## Easy
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
-- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [x] [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [x] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
@@ -19,7 +19,7 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
