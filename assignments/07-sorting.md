@@ -43,16 +43,16 @@
 ## Medium
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [] [4Sum](https://leetcode.com/problems/4sum/)
-- [] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [4Sum](https://leetcode.com/problems/4sum/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [] [Sort List](https://leetcode.com/problems/sort-list/)
 - [] [Largest Number](https://leetcode.com/problems/largest-number/)
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [] [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
 - [] [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
